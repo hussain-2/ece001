@@ -1,0 +1,125 @@
+	<html> 
+	<head> 
+	<meta charset="utf-8"> 
+	<title>operating systems</title> 
+	<link rel="stylesheet" href="css.CSS" /> 
+</head> 
+	<body class="thepage" > 
+	<div > 
+	
+	<h1 > What is an Operating System?</h1> 
+	
+	<p>An Operating system (OS) is a software which acts as an interface between the end user and computer hardware. Every computer must have at least one OS to run other programs. An application like Chrome, MS Word, Games, etc needs some environment in which it will run and perform its task. The OS helps you to communicate with the computer without knowing how to speak the computer's language. It is not possible for the user to use any computer or mobile device without having an operating system.</p>
+	<h1>some of important functions of an operating System.</h1>
+	<ol>
+		<h2>
+			C++ as an Object Oriented Programming Language
+	C++ is one of the first languages to support object oriented programming. This means that the programs is modeled according to objects in the real world. More formally, object-oriented programming languages supports the following features:
+	
+		</h2><br>
+	<li>Memory Management</li>
+	<li>Processor Management</li>
+	<li>Device Management</li>
+	<li>File Management</li>
+	<li>Security</li>
+	<li>	Control over system performance</li>
+	<li>	Job accounting</li>
+	<li>	Error detecting aids</li>
+	<li>	Coordination between other software and users</li>
+	</ol>
+	<h1>Memory Management</h1>
+	<p>Memory management refers to management of Primary Memory or Main Memory. Main memory is a large array of words or bytes where each word or byte has its own address.
+Main memory provides a fast storage that can be accessed directly by the CPU. For a program to be executed, it must in the main memory. An Operating System does the following activities for memory management ?
+</p>
+	<ol>
+		
+		<li>•	Keeps tracks of primary memory, i.e., what part of it are in use by whom, what part are not in use.</li>
+		<li>•	In multiprogramming, the OS decides which process will get memory when and how much.</li>
+		<li>•	Allocates the memory when a process requests it to do so.</li>
+		
+	</ol>
+	
+	<nav>
+			<ul class="nav" >
+               <li> <a href=" pm.HTML"> Click here to see Processor,deveice,file Management of os</a> </li>
+			</ul>
+	</nav>
+	<br>
+	 <h1>Examples of Operating System with Market Share</h1>
+	 <br>
+	 <img src="share.png" width="600" height="600">
+	 <br>
+	 <h1>What is a Kernel?</h1>
+	 <p>The kernel is the central component of a computer operating systems. The only job performed by the kernel is to the manage the communication between the software and the hardware. A Kernel is at the nucleus of a computer. It makes the communication between the hardware and software possible. While the Kernel is the innermost part of an operating system, a shell is the outermost one.</p>
+	<h1>Features of Kennel</h1>
+	<ol>
+		<li>•	Low-level scheduling of processes</li>
+		<li>•	Inter-process communication</li>
+		<li>•	Process synchronization</li>
+		<li>•	Context switching</li>
+	</ol>
+	<label>Types of Operating system </label> 
+<select > 
+<option>	Batch Operating System</option> 
+<option>	Multitasking/Time Sharing OS</option> 
+<option>	Multiprocessing OS</option> 
+<option>	Real Time OS</option>
+<option>	Distributed OS</option>
+<option>	Network OS</option>
+<option>Mobile OS</option>
+</select> 
+<br>
+<h1>Difference between Firmware and Operating System</h1>
+<br>
+	<table border="8" width="800" height="400"> 
+	<tr> 
+	<th>Firmware	</th> 
+	<th>Operating System </th> 
+	
+	</tr> 
+	
+	<tr> 
+	<td>Firmware is one kind of programming that is embedded on a chip in the device which controls that specific device</td> 
+	<td>OS provides functionality over and above that which is provided by the firmware</td> 
+	
+	</tr> 
+	<tr> 
+	<td>Firmware is programs that been encoded by the manufacture of the IC or something and cannot be changed.</td> 
+	<td>OS is a program that can be installed by the user and can be changed.</td> 
+	
+	</tr> 
+	<tr> 
+	<td>It is stored on non-volatile memory.</td> 
+	<td>OS is stored on the hard drive.</td> 
+	</tr> 
+	</table>
+	<br>
+	
+	 <nav>
+			<ul class="nav" >
+               <li> <a href=" ad.HTML"> Click here to see The advantage  and disadvantages of using Operating System</a> </li>
+			</ul>
+	</nav>
+	 <h1>Top 10 Operating Systems in History</h1>
+	 <p>The user interfaces we use to interact with our increasingly digital world constantly needs to keep up with the daily technological advances. The place where users interact most with this world is at the level of the Operating System (OS). Over the years many have been created for a myriad of platforms, but only a few have truly shined as being game changing. This list will highlight some of the best operating systems that you can still find in the history of personal computing.</p>
+	<ol>
+		<li>1.	iOS
+			<p>– Not many software or hardware developers have had as strong of a impact on computing as Apple. The release of their mobile operating system, specifically designed for their iPhone and iPad devices, was and still is game changing. Designed to be intuitive and responsive, iOS blends an almost desktop-like experience with a decisively on-the-go aesthetic.</p>
+		</li>
+		<li>2.	Android OS 
+			<p>There are few companies with their fingers on the pulse of tech like Google. Purchased by Google in 2005 and released on its first handset in 2008, Android has evolved continuously. With whip-fast controls and strong features, it has become a strong contender in the mobile operating system arena.</p>
+		</li>
+		<li>3.	Windows 3.x 
+			<p>Groundbreaking at time of its 1992 release, the 3.1 version of windows brought the windows platform into true prominence. Featuring loadable device drivers and virtual memory, this 16 bit version of the Microsoft Desktop OS made upgrading and maintaining PCs a much easier process for users.</p>
+		</li>
+		<nav>
+			<ul class="nav" >
+               <li> <a href=" more.HTML"> learn more</a> </li>
+			</ul>
+	</nav>
+	</ol>
+		 
+	
+	</body> 
+	</html>
+
